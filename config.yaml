@@ -1,0 +1,14 @@
+---
+servidores:
+ - ip: 172.16.0.100
+   nombre: maquina1
+   descripcion: maquina debian 12 de Alvaro
+ - ip: 172.16.0.201
+   nombre: maquina2
+   descripcion: maquina debian 12 de Juan
+ - ip: 172.16.0.203
+   nombre: maquina3
+   descripcion: maquina debian 12 de Jose
+copias:
+ - ubicacion: /opt/directorioprueba2
+ - ubicacion: /home/usuario/directorioprueba3
